@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.22
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.22
+		intervals: size = 21
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.17
+				text = "sil"
+			intervals [2]:
+				xmin = 0.17
+				xmax = 0.23
+				text = "t"
+			intervals [3]:
+				xmin = 0.23
+				xmax = 0.29
+				text = "o"
+			intervals [4]:
+				xmin = 0.29
+				xmax = 0.45
+				text = "sl"
+			intervals [5]:
+				xmin = 0.45
+				xmax = 0.59
+				text = "e"
+			intervals [6]:
+				xmin = 0.59
+				xmax = 0.77
+				text = "t"
+			intervals [7]:
+				xmin = 0.77
+				xmax = 0.88
+				text = "a"
+			intervals [8]:
+				xmin = 0.88
+				xmax = 0.91
+				text = "t"
+			intervals [9]:
+				xmin = 0.91
+				xmax = 0.96
+				text = "o"
+			intervals [10]:
+				xmin = 0.96
+				xmax = 1.52
+				text = "sl"
+			intervals [11]:
+				xmin = 1.52
+				xmax = 1.67
+				text = "e"
+			intervals [12]:
+				xmin = 1.67
+				xmax = 1.86
+				text = "t"
+			intervals [13]:
+				xmin = 1.86
+				xmax = 1.93
+				text = "a"
+			intervals [14]:
+				xmin = 1.93
+				xmax = 1.96
+				text = "t"
+			intervals [15]:
+				xmin = 1.96
+				xmax = 1.99
+				text = "o"
+			intervals [16]:
+				xmin = 1.99
+				xmax = 2.71
+				text = "sl"
+			intervals [17]:
+				xmin = 2.71
+				xmax = 2.84
+				text = "e"
+			intervals [18]:
+				xmin = 2.84
+				xmax = 3.09
+				text = "t"
+			intervals [19]:
+				xmin = 3.09
+				xmax = 3.13
+				text = "a"
+			intervals [20]:
+				xmin = 3.13
+				xmax = 3.2
+				text = ""
+			intervals [21]:
+				xmin = 3.2
+				xmax = 3.22
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.22
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.17
+				text = "sil"
+			intervals [2]:
+				xmin = 0.17
+				xmax = 0.88
+				text = "tosleta"
+			intervals [3]:
+				xmin = 0.88
+				xmax = 1.93
+				text = "tosleta"
+			intervals [4]:
+				xmin = 1.93
+				xmax = 3.13
+				text = "tosleta"
+			intervals [5]:
+				xmin = 3.13
+				xmax = 3.2
+				text = "sp"
+			intervals [6]:
+				xmin = 3.2
+				xmax = 3.22
+				text = "sil"

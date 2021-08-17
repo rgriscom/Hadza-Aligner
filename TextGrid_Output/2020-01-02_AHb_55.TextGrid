@@ -1,0 +1,168 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.76
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.76
+		intervals: size = 29
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.29
+				text = "sil"
+			intervals [2]:
+				xmin = 0.29
+				xmax = 0.39
+				text = "nd"
+			intervals [3]:
+				xmin = 0.39
+				xmax = 0.45
+				text = "e"
+			intervals [4]:
+				xmin = 0.45
+				xmax = 0.57
+				text = "r"
+			intervals [5]:
+				xmin = 0.57
+				xmax = 0.6
+				text = "u"
+			intervals [6]:
+				xmin = 0.6
+				xmax = 0.72
+				text = "nd"
+			intervals [7]:
+				xmin = 0.72
+				xmax = 0.79
+				text = "e"
+			intervals [8]:
+				xmin = 0.79
+				xmax = 0.98
+				text = "r"
+			intervals [9]:
+				xmin = 0.98
+				xmax = 1.12
+				text = "u"
+			intervals [10]:
+				xmin = 1.12
+				xmax = 1.4
+				text = ""
+			intervals [11]:
+				xmin = 1.4
+				xmax = 1.54
+				text = "nd"
+			intervals [12]:
+				xmin = 1.54
+				xmax = 1.61
+				text = "e"
+			intervals [13]:
+				xmin = 1.61
+				xmax = 1.74
+				text = "r"
+			intervals [14]:
+				xmin = 1.74
+				xmax = 1.77
+				text = "u"
+			intervals [15]:
+				xmin = 1.77
+				xmax = 1.89
+				text = "nd"
+			intervals [16]:
+				xmin = 1.89
+				xmax = 1.95
+				text = "e"
+			intervals [17]:
+				xmin = 1.95
+				xmax = 2.15
+				text = "r"
+			intervals [18]:
+				xmin = 2.15
+				xmax = 2.26
+				text = "u"
+			intervals [19]:
+				xmin = 2.26
+				xmax = 2.88
+				text = ""
+			intervals [20]:
+				xmin = 2.88
+				xmax = 2.94
+				text = "nd"
+			intervals [21]:
+				xmin = 2.94
+				xmax = 3.0
+				text = "e"
+			intervals [22]:
+				xmin = 3.0
+				xmax = 3.13
+				text = "r"
+			intervals [23]:
+				xmin = 3.13
+				xmax = 3.16
+				text = "u"
+			intervals [24]:
+				xmin = 3.16
+				xmax = 3.29
+				text = "nd"
+			intervals [25]:
+				xmin = 3.29
+				xmax = 3.36
+				text = "e"
+			intervals [26]:
+				xmin = 3.36
+				xmax = 3.49
+				text = "r"
+			intervals [27]:
+				xmin = 3.49
+				xmax = 3.52
+				text = "u"
+			intervals [28]:
+				xmin = 3.52
+				xmax = 3.59
+				text = ""
+			intervals [29]:
+				xmin = 3.59
+				xmax = 3.76
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.76
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.29
+				text = "sil"
+			intervals [2]:
+				xmin = 0.29
+				xmax = 1.12
+				text = "nderunderu"
+			intervals [3]:
+				xmin = 1.12
+				xmax = 1.4
+				text = "sp"
+			intervals [4]:
+				xmin = 1.4
+				xmax = 2.26
+				text = "nderunderu"
+			intervals [5]:
+				xmin = 2.26
+				xmax = 2.88
+				text = "sp"
+			intervals [6]:
+				xmin = 2.88
+				xmax = 3.52
+				text = "nderunderu"
+			intervals [7]:
+				xmin = 3.52
+				xmax = 3.59
+				text = "sp"
+			intervals [8]:
+				xmin = 3.59
+				xmax = 3.76
+				text = "sil"

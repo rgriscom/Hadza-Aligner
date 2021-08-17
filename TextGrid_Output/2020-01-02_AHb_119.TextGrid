@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.26
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.26
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.02
+				text = "sil"
+			intervals [2]:
+				xmin = 0.02
+				xmax = 0.39
+				text = "sl"
+			intervals [3]:
+				xmin = 0.39
+				xmax = 0.51
+				text = "e"
+			intervals [4]:
+				xmin = 0.51
+				xmax = 0.7
+				text = "m"
+			intervals [5]:
+				xmin = 0.7
+				xmax = 0.97
+				text = "e"
+			intervals [6]:
+				xmin = 0.97
+				xmax = 1.63
+				text = "sl"
+			intervals [7]:
+				xmin = 1.63
+				xmax = 1.77
+				text = "e"
+			intervals [8]:
+				xmin = 1.77
+				xmax = 2.0
+				text = "m"
+			intervals [9]:
+				xmin = 2.0
+				xmax = 2.23
+				text = "e"
+			intervals [10]:
+				xmin = 2.23
+				xmax = 2.36
+				text = ""
+			intervals [11]:
+				xmin = 2.36
+				xmax = 2.8
+				text = "sl"
+			intervals [12]:
+				xmin = 2.8
+				xmax = 2.96
+				text = "e"
+			intervals [13]:
+				xmin = 2.96
+				xmax = 3.15
+				text = "m"
+			intervals [14]:
+				xmin = 3.15
+				xmax = 3.24
+				text = "e"
+			intervals [15]:
+				xmin = 3.24
+				xmax = 3.26
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.26
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.02
+				text = "sil"
+			intervals [2]:
+				xmin = 0.02
+				xmax = 0.97
+				text = "sleme"
+			intervals [3]:
+				xmin = 0.97
+				xmax = 2.23
+				text = "sleme"
+			intervals [4]:
+				xmin = 2.23
+				xmax = 2.36
+				text = "sp"
+			intervals [5]:
+				xmin = 2.36
+				xmax = 3.24
+				text = "sleme"
+			intervals [6]:
+				xmin = 3.24
+				xmax = 3.26
+				text = "sil"

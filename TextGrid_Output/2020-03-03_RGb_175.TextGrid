@@ -1,0 +1,392 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 8.18
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 8.18
+		intervals: size = 75
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.21
+				text = "sil"
+			intervals [2]:
+				xmin = 0.21
+				xmax = 0.24
+				text = "g"
+			intervals [3]:
+				xmin = 0.24
+				xmax = 0.38
+				text = "u"
+			intervals [4]:
+				xmin = 0.38
+				xmax = 0.5
+				text = "d"
+			intervals [5]:
+				xmin = 0.5
+				xmax = 0.69
+				text = "o"
+			intervals [6]:
+				xmin = 0.69
+				xmax = 0.74
+				text = ""
+			intervals [7]:
+				xmin = 0.74
+				xmax = 0.79
+				text = "g"
+			intervals [8]:
+				xmin = 0.79
+				xmax = 0.88
+				text = "o"
+			intervals [9]:
+				xmin = 0.88
+				xmax = 0.99
+				text = "b"
+			intervals [10]:
+				xmin = 0.99
+				xmax = 1.06
+				text = "a"
+			intervals [11]:
+				xmin = 1.06
+				xmax = 1.14
+				text = "r"
+			intervals [12]:
+				xmin = 1.14
+				xmax = 1.17
+				text = "i"
+			intervals [13]:
+				xmin = 1.17
+				xmax = 1.28
+				text = "sh"
+			intervals [14]:
+				xmin = 1.28
+				xmax = 1.36
+				text = "u"
+			intervals [15]:
+				xmin = 1.36
+				xmax = 1.57
+				text = "kw"
+			intervals [16]:
+				xmin = 1.57
+				xmax = 1.63
+				text = "a"
+			intervals [17]:
+				xmin = 1.63
+				xmax = 1.76
+				text = "m"
+			intervals [18]:
+				xmin = 1.76
+				xmax = 1.94
+				text = "o"
+			intervals [19]:
+				xmin = 1.94
+				xmax = 2.0
+				text = ""
+			intervals [20]:
+				xmin = 2.0
+				xmax = 2.14
+				text = "cc"
+			intervals [21]:
+				xmin = 2.14
+				xmax = 2.19
+				text = "e"
+			intervals [22]:
+				xmin = 2.19
+				xmax = 2.32
+				text = "zz"
+			intervals [23]:
+				xmin = 2.32
+				xmax = 2.41
+				text = "a"
+			intervals [24]:
+				xmin = 2.41
+				xmax = 2.51
+				text = "n"
+			intervals [25]:
+				xmin = 2.51
+				xmax = 2.54
+				text = "a"
+			intervals [26]:
+				xmin = 2.54
+				xmax = 2.68
+				text = ""
+			intervals [27]:
+				xmin = 2.68
+				xmax = 3.08
+				text = "g"
+			intervals [28]:
+				xmin = 3.08
+				xmax = 3.49
+				text = "u"
+			intervals [29]:
+				xmin = 3.49
+				xmax = 3.61
+				text = "d"
+			intervals [30]:
+				xmin = 3.61
+				xmax = 3.72
+				text = "o"
+			intervals [31]:
+				xmin = 3.72
+				xmax = 3.87
+				text = "g"
+			intervals [32]:
+				xmin = 3.87
+				xmax = 3.94
+				text = "o"
+			intervals [33]:
+				xmin = 3.94
+				xmax = 4.04
+				text = "b"
+			intervals [34]:
+				xmin = 4.04
+				xmax = 4.11
+				text = "a"
+			intervals [35]:
+				xmin = 4.11
+				xmax = 4.16
+				text = "r"
+			intervals [36]:
+				xmin = 4.16
+				xmax = 4.19
+				text = "i"
+			intervals [37]:
+				xmin = 4.19
+				xmax = 4.29
+				text = "sh"
+			intervals [38]:
+				xmin = 4.29
+				xmax = 4.34
+				text = "u"
+			intervals [39]:
+				xmin = 4.34
+				xmax = 4.53
+				text = "kw"
+			intervals [40]:
+				xmin = 4.53
+				xmax = 4.59
+				text = "a"
+			intervals [41]:
+				xmin = 4.59
+				xmax = 4.72
+				text = "m"
+			intervals [42]:
+				xmin = 4.72
+				xmax = 4.87
+				text = "o"
+			intervals [43]:
+				xmin = 4.87
+				xmax = 4.93
+				text = ""
+			intervals [44]:
+				xmin = 4.93
+				xmax = 5.14
+				text = "cc"
+			intervals [45]:
+				xmin = 5.14
+				xmax = 5.17
+				text = "e"
+			intervals [46]:
+				xmin = 5.17
+				xmax = 5.29
+				text = "zz"
+			intervals [47]:
+				xmin = 5.29
+				xmax = 5.39
+				text = "a"
+			intervals [48]:
+				xmin = 5.39
+				xmax = 5.43
+				text = "n"
+			intervals [49]:
+				xmin = 5.43
+				xmax = 5.46
+				text = "a"
+			intervals [50]:
+				xmin = 5.46
+				xmax = 5.59
+				text = ""
+			intervals [51]:
+				xmin = 5.59
+				xmax = 5.76
+				text = "g"
+			intervals [52]:
+				xmin = 5.76
+				xmax = 6.23
+				text = "u"
+			intervals [53]:
+				xmin = 6.23
+				xmax = 6.34
+				text = "d"
+			intervals [54]:
+				xmin = 6.34
+				xmax = 6.41
+				text = "o"
+			intervals [55]:
+				xmin = 6.41
+				xmax = 6.53
+				text = "g"
+			intervals [56]:
+				xmin = 6.53
+				xmax = 6.63
+				text = "o"
+			intervals [57]:
+				xmin = 6.63
+				xmax = 6.7
+				text = "b"
+			intervals [58]:
+				xmin = 6.7
+				xmax = 6.77
+				text = "a"
+			intervals [59]:
+				xmin = 6.77
+				xmax = 6.83
+				text = "r"
+			intervals [60]:
+				xmin = 6.83
+				xmax = 6.86
+				text = "i"
+			intervals [61]:
+				xmin = 6.86
+				xmax = 6.92
+				text = "sh"
+			intervals [62]:
+				xmin = 6.92
+				xmax = 7.01
+				text = "u"
+			intervals [63]:
+				xmin = 7.01
+				xmax = 7.17
+				text = "kw"
+			intervals [64]:
+				xmin = 7.17
+				xmax = 7.25
+				text = "a"
+			intervals [65]:
+				xmin = 7.25
+				xmax = 7.35
+				text = "m"
+			intervals [66]:
+				xmin = 7.35
+				xmax = 7.49
+				text = "o"
+			intervals [67]:
+				xmin = 7.49
+				xmax = 7.56
+				text = ""
+			intervals [68]:
+				xmin = 7.56
+				xmax = 7.65
+				text = "cc"
+			intervals [69]:
+				xmin = 7.65
+				xmax = 7.7
+				text = "e"
+			intervals [70]:
+				xmin = 7.7
+				xmax = 7.82
+				text = "zz"
+			intervals [71]:
+				xmin = 7.82
+				xmax = 7.9
+				text = "a"
+			intervals [72]:
+				xmin = 7.9
+				xmax = 8.0
+				text = "n"
+			intervals [73]:
+				xmin = 8.0
+				xmax = 8.03
+				text = "a"
+			intervals [74]:
+				xmin = 8.03
+				xmax = 8.1
+				text = ""
+			intervals [75]:
+				xmin = 8.1
+				xmax = 8.18
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 8.18
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.21
+				text = "sil"
+			intervals [2]:
+				xmin = 0.21
+				xmax = 0.69
+				text = "gudo"
+			intervals [3]:
+				xmin = 0.69
+				xmax = 0.74
+				text = "sp"
+			intervals [4]:
+				xmin = 0.74
+				xmax = 1.94
+				text = "gobarishukwamo"
+			intervals [5]:
+				xmin = 1.94
+				xmax = 2.0
+				text = "sp"
+			intervals [6]:
+				xmin = 2.0
+				xmax = 2.54
+				text = "ccezzana"
+			intervals [7]:
+				xmin = 2.54
+				xmax = 2.68
+				text = "sp"
+			intervals [8]:
+				xmin = 2.68
+				xmax = 3.72
+				text = "gudo"
+			intervals [9]:
+				xmin = 3.72
+				xmax = 4.87
+				text = "gobarishukwamo"
+			intervals [10]:
+				xmin = 4.87
+				xmax = 4.93
+				text = "sp"
+			intervals [11]:
+				xmin = 4.93
+				xmax = 5.46
+				text = "ccezzana"
+			intervals [12]:
+				xmin = 5.46
+				xmax = 5.59
+				text = "sp"
+			intervals [13]:
+				xmin = 5.59
+				xmax = 6.41
+				text = "gudo"
+			intervals [14]:
+				xmin = 6.41
+				xmax = 7.49
+				text = "gobarishukwamo"
+			intervals [15]:
+				xmin = 7.49
+				xmax = 7.56
+				text = "sp"
+			intervals [16]:
+				xmin = 7.56
+				xmax = 8.03
+				text = "ccezzana"
+			intervals [17]:
+				xmin = 8.03
+				xmax = 8.1
+				text = "sp"
+			intervals [18]:
+				xmin = 8.1
+				xmax = 8.18
+				text = "sil"

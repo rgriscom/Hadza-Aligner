@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.33
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.33
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.48
+				text = "sil"
+			intervals [2]:
+				xmin = 1.48
+				xmax = 1.72
+				text = "u"
+			intervals [3]:
+				xmin = 1.72
+				xmax = 1.89
+				text = "n"
+			intervals [4]:
+				xmin = 1.89
+				xmax = 1.99
+				text = "u"
+			intervals [5]:
+				xmin = 1.99
+				xmax = 2.11
+				text = ""
+			intervals [6]:
+				xmin = 2.11
+				xmax = 2.88
+				text = "u"
+			intervals [7]:
+				xmin = 2.88
+				xmax = 3.05
+				text = "n"
+			intervals [8]:
+				xmin = 3.05
+				xmax = 3.09
+				text = "u"
+			intervals [9]:
+				xmin = 3.09
+				xmax = 3.12
+				text = "u"
+			intervals [10]:
+				xmin = 3.12
+				xmax = 3.15
+				text = "n"
+			intervals [11]:
+				xmin = 3.15
+				xmax = 3.18
+				text = "u"
+			intervals [12]:
+				xmin = 3.18
+				xmax = 3.21
+				text = ""
+			intervals [13]:
+				xmin = 3.21
+				xmax = 3.33
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.33
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.48
+				text = "sil"
+			intervals [2]:
+				xmin = 1.48
+				xmax = 1.99
+				text = "unu"
+			intervals [3]:
+				xmin = 1.99
+				xmax = 2.11
+				text = "sp"
+			intervals [4]:
+				xmin = 2.11
+				xmax = 3.09
+				text = "unu"
+			intervals [5]:
+				xmin = 3.09
+				xmax = 3.18
+				text = "unu"
+			intervals [6]:
+				xmin = 3.18
+				xmax = 3.21
+				text = "sp"
+			intervals [7]:
+				xmin = 3.21
+				xmax = 3.33
+				text = "sil"

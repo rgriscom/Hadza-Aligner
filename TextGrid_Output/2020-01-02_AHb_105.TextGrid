@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.38
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.38
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.46
+				text = "sil"
+			intervals [2]:
+				xmin = 1.46
+				xmax = 1.55
+				text = "a"
+			intervals [3]:
+				xmin = 1.55
+				xmax = 1.7
+				text = "k"
+			intervals [4]:
+				xmin = 1.7
+				xmax = 1.83
+				text = "a"
+			intervals [5]:
+				xmin = 1.83
+				xmax = 2.39
+				text = "e"
+			intervals [6]:
+				xmin = 2.39
+				xmax = 2.63
+				text = ""
+			intervals [7]:
+				xmin = 2.63
+				xmax = 2.74
+				text = "a"
+			intervals [8]:
+				xmin = 2.74
+				xmax = 2.88
+				text = "k"
+			intervals [9]:
+				xmin = 2.88
+				xmax = 3.0
+				text = "a"
+			intervals [10]:
+				xmin = 3.0
+				xmax = 3.06
+				text = "e"
+			intervals [11]:
+				xmin = 3.06
+				xmax = 3.09
+				text = "a"
+			intervals [12]:
+				xmin = 3.09
+				xmax = 3.14
+				text = "k"
+			intervals [13]:
+				xmin = 3.14
+				xmax = 3.17
+				text = "a"
+			intervals [14]:
+				xmin = 3.17
+				xmax = 3.28
+				text = "e"
+			intervals [15]:
+				xmin = 3.28
+				xmax = 3.38
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.38
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.46
+				text = "sil"
+			intervals [2]:
+				xmin = 1.46
+				xmax = 2.39
+				text = "akae"
+			intervals [3]:
+				xmin = 2.39
+				xmax = 2.63
+				text = "sp"
+			intervals [4]:
+				xmin = 2.63
+				xmax = 3.06
+				text = "akae"
+			intervals [5]:
+				xmin = 3.06
+				xmax = 3.28
+				text = "akae"
+			intervals [6]:
+				xmin = 3.28
+				xmax = 3.38
+				text = "sil"

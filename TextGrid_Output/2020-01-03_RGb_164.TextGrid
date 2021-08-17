@@ -1,0 +1,156 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.89
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.89
+		intervals: size = 29
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.21
+				text = "sil"
+			intervals [2]:
+				xmin = 0.21
+				xmax = 0.31
+				text = "a"
+			intervals [3]:
+				xmin = 0.31
+				xmax = 0.43
+				text = "nd"
+			intervals [4]:
+				xmin = 0.43
+				xmax = 0.57
+				text = "i"
+			intervals [5]:
+				xmin = 0.57
+				xmax = 0.7
+				text = "kh"
+			intervals [6]:
+				xmin = 0.7
+				xmax = 0.9
+				text = "a"
+			intervals [7]:
+				xmin = 0.9
+				xmax = 1.12
+				text = "e"
+			intervals [8]:
+				xmin = 1.12
+				xmax = 1.28
+				text = "a"
+			intervals [9]:
+				xmin = 1.28
+				xmax = 1.37
+				text = "m"
+			intervals [10]:
+				xmin = 1.37
+				xmax = 2.04
+				text = "o"
+			intervals [11]:
+				xmin = 2.04
+				xmax = 2.07
+				text = "a"
+			intervals [12]:
+				xmin = 2.07
+				xmax = 2.19
+				text = "nd"
+			intervals [13]:
+				xmin = 2.19
+				xmax = 2.26
+				text = "i"
+			intervals [14]:
+				xmin = 2.26
+				xmax = 2.4
+				text = "kh"
+			intervals [15]:
+				xmin = 2.4
+				xmax = 2.54
+				text = "a"
+			intervals [16]:
+				xmin = 2.54
+				xmax = 2.67
+				text = "e"
+			intervals [17]:
+				xmin = 2.67
+				xmax = 2.88
+				text = "a"
+			intervals [18]:
+				xmin = 2.88
+				xmax = 3.0
+				text = "m"
+			intervals [19]:
+				xmin = 3.0
+				xmax = 3.72
+				text = "o"
+			intervals [20]:
+				xmin = 3.72
+				xmax = 3.76
+				text = "a"
+			intervals [21]:
+				xmin = 3.76
+				xmax = 3.88
+				text = "nd"
+			intervals [22]:
+				xmin = 3.88
+				xmax = 3.96
+				text = "i"
+			intervals [23]:
+				xmin = 3.96
+				xmax = 4.1
+				text = "kh"
+			intervals [24]:
+				xmin = 4.1
+				xmax = 4.22
+				text = "a"
+			intervals [25]:
+				xmin = 4.22
+				xmax = 4.42
+				text = "e"
+			intervals [26]:
+				xmin = 4.42
+				xmax = 4.59
+				text = "a"
+			intervals [27]:
+				xmin = 4.59
+				xmax = 4.73
+				text = "m"
+			intervals [28]:
+				xmin = 4.73
+				xmax = 4.87
+				text = "o"
+			intervals [29]:
+				xmin = 4.87
+				xmax = 4.89
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.89
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.21
+				text = "sil"
+			intervals [2]:
+				xmin = 0.21
+				xmax = 2.04
+				text = "andikhaeamo"
+			intervals [3]:
+				xmin = 2.04
+				xmax = 3.72
+				text = "andikhaeamo"
+			intervals [4]:
+				xmin = 3.72
+				xmax = 4.87
+				text = "andikhaeamo"
+			intervals [5]:
+				xmin = 4.87
+				xmax = 4.89
+				text = "sil"

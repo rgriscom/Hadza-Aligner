@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.59
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.59
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.02
+				text = "sil"
+			intervals [2]:
+				xmin = 0.02
+				xmax = 0.22
+				text = "sl"
+			intervals [3]:
+				xmin = 0.22
+				xmax = 0.7
+				text = "a"
+			intervals [4]:
+				xmin = 0.7
+				xmax = 0.73
+				text = "a"
+			intervals [5]:
+				xmin = 0.73
+				xmax = 1.0
+				text = ""
+			intervals [6]:
+				xmin = 1.0
+				xmax = 1.28
+				text = "sl"
+			intervals [7]:
+				xmin = 1.28
+				xmax = 1.55
+				text = "a"
+			intervals [8]:
+				xmin = 1.55
+				xmax = 1.71
+				text = "a"
+			intervals [9]:
+				xmin = 1.71
+				xmax = 1.8
+				text = ""
+			intervals [10]:
+				xmin = 1.8
+				xmax = 2.18
+				text = "sl"
+			intervals [11]:
+				xmin = 2.18
+				xmax = 2.24
+				text = "a"
+			intervals [12]:
+				xmin = 2.24
+				xmax = 2.57
+				text = "a"
+			intervals [13]:
+				xmin = 2.57
+				xmax = 2.59
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.59
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.02
+				text = "sil"
+			intervals [2]:
+				xmin = 0.02
+				xmax = 0.73
+				text = "slaa"
+			intervals [3]:
+				xmin = 0.73
+				xmax = 1.0
+				text = "sp"
+			intervals [4]:
+				xmin = 1.0
+				xmax = 1.71
+				text = "slaa"
+			intervals [5]:
+				xmin = 1.71
+				xmax = 1.8
+				text = "sp"
+			intervals [6]:
+				xmin = 1.8
+				xmax = 2.57
+				text = "slaa"
+			intervals [7]:
+				xmin = 2.57
+				xmax = 2.59
+				text = "sil"

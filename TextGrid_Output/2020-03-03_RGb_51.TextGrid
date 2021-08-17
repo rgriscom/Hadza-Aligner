@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.22
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.22
+		intervals: size = 21
+			intervals [1]:
+				xmin = 0.0
+				xmax = 2.02
+				text = "sil"
+			intervals [2]:
+				xmin = 2.02
+				xmax = 2.1
+				text = "a"
+			intervals [3]:
+				xmin = 2.1
+				xmax = 2.27
+				text = "tch"
+			intervals [4]:
+				xmin = 2.27
+				xmax = 2.32
+				text = "e"
+			intervals [5]:
+				xmin = 2.32
+				xmax = 2.49
+				text = "k"
+			intervals [6]:
+				xmin = 2.49
+				xmax = 2.56
+				text = "a"
+			intervals [7]:
+				xmin = 2.56
+				xmax = 2.59
+				text = "a"
+			intervals [8]:
+				xmin = 2.59
+				xmax = 2.62
+				text = "a"
+			intervals [9]:
+				xmin = 2.62
+				xmax = 2.65
+				text = "tch"
+			intervals [10]:
+				xmin = 2.65
+				xmax = 2.68
+				text = "e"
+			intervals [11]:
+				xmin = 2.68
+				xmax = 3.19
+				text = "k"
+			intervals [12]:
+				xmin = 3.19
+				xmax = 3.24
+				text = "a"
+			intervals [13]:
+				xmin = 3.24
+				xmax = 3.29
+				text = "a"
+			intervals [14]:
+				xmin = 3.29
+				xmax = 3.32
+				text = "a"
+			intervals [15]:
+				xmin = 3.32
+				xmax = 3.49
+				text = "tch"
+			intervals [16]:
+				xmin = 3.49
+				xmax = 3.54
+				text = "e"
+			intervals [17]:
+				xmin = 3.54
+				xmax = 3.68
+				text = "k"
+			intervals [18]:
+				xmin = 3.68
+				xmax = 3.77
+				text = "a"
+			intervals [19]:
+				xmin = 3.77
+				xmax = 3.8
+				text = "a"
+			intervals [20]:
+				xmin = 3.8
+				xmax = 3.89
+				text = ""
+			intervals [21]:
+				xmin = 3.89
+				xmax = 4.22
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.22
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 2.02
+				text = "sil"
+			intervals [2]:
+				xmin = 2.02
+				xmax = 2.59
+				text = "atchekaa"
+			intervals [3]:
+				xmin = 2.59
+				xmax = 3.29
+				text = "atchekaa"
+			intervals [4]:
+				xmin = 3.29
+				xmax = 3.8
+				text = "atchekaa"
+			intervals [5]:
+				xmin = 3.8
+				xmax = 3.89
+				text = "sp"
+			intervals [6]:
+				xmin = 3.89
+				xmax = 4.22
+				text = "sil"

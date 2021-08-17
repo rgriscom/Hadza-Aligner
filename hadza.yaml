@@ -1,0 +1,44 @@
+# for human reading only
+authors: Richard Griscom
+language: Hadza
+
+# basic features
+samplerate: 16000 # in Hz
+phoneset: [a, a, e, u, i, o, aa, ee, uu, ii, oo, cc, qq, xx, bb, zz, dl, jj, gg, ggw, c, ch, q, qh, z, x, xh, b, p, ph, d, t, th, g, k, kh, gw, kw, khw, z, ts, tsh, tl, tlh, j, tc, tch, nc, nq, nx, m, n, ny, ng', ng'w, mb, mp, nd, nt, ng, nk, ngw, nz, ns, nj, f, s, sl, sh, r, y, w, h]
+
+# specs for feature extractor; change at your own risk
+HCopy:
+    SOURCEKIND: WAVEFORM
+    SOURCEFORMAT: WAVE
+    TARGETRATE: 100000.0
+    TARGETKIND: MFCC_D_A_0
+    WINDOWSIZE: 250000.0
+    PREEMCOEF: 0.97
+    USEHAMMING: T
+    ENORMALIZE: T
+    CEPLIFTER: 22
+    NUMCHANS: 20
+    NUMCEPS: 12
+
+# pruning parameters, to use globally; change at your own risk
+pruning: [250, 100, 5000]
+
+# specs for flat start; change at your own risk
+HCompV:
+    F: .01
+
+# specs for estimation; change at your own risk
+HERest:
+    TARGETRATE: 100000.0
+    TARGETKIND: MFCC_D_A_0
+    WINDOWSIZE: 250000.0
+    PREEMCOEF: 0.97
+    USEHAMMING: T
+    ENORMALIZE: T
+    CEPLIFTER: 22
+    NUMCHANS: 20
+    NUMCEPS: 12
+
+# specs for the decoder; change at your own risk
+HVite:
+    SFAC: 5

@@ -1,0 +1,3407 @@
+File type = "ooTextFile"
+Object class = "Collection"
+
+size = 189 
+item []: 
+    item [1]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_1" 
+        xmin = 0 
+        xmax = 6.975646258503401 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.975646258503401 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.975646258503401 
+                    text = "" 
+    item [2]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_2" 
+        xmin = 0 
+        xmax = 4.199886621315192 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.199886621315192 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.199886621315192 
+                    text = "" 
+    item [3]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_3" 
+        xmin = 0 
+        xmax = 3.448231292517007 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.448231292517007 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.448231292517007 
+                    text = "" 
+    item [4]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_4" 
+        xmin = 0 
+        xmax = 5.593197278911565 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.593197278911565 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.593197278911565 
+                    text = "" 
+    item [5]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_5" 
+        xmin = 0 
+        xmax = 4.383242630385488 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.383242630385488 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.383242630385488 
+                    text = "" 
+    item [6]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_6" 
+        xmin = 0 
+        xmax = 5.978185941043084 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.978185941043084 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.978185941043084 
+                    text = "" 
+    item [7]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_7" 
+        xmin = 0 
+        xmax = 3.6315873015873015 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.6315873015873015 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.6315873015873015 
+                    text = "" 
+    item [8]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_8" 
+        xmin = 0 
+        xmax = 5.299863945578231 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.299863945578231 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.299863945578231 
+                    text = "" 
+    item [9]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_9" 
+        xmin = 0 
+        xmax = 3.7048979591836733 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.7048979591836733 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.7048979591836733 
+                    text = "" 
+    item [10]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_10" 
+        xmin = 0 
+        xmax = 5.024875283446712 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.024875283446712 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.024875283446712 
+                    text = "" 
+    item [11]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_11" 
+        xmin = 0 
+        xmax = 3.448231292517007 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.448231292517007 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.448231292517007 
+                    text = "" 
+    item [12]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_12" 
+        xmin = 0 
+        xmax = 5.391541950113378 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.391541950113378 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.391541950113378 
+                    text = "" 
+    item [13]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_13" 
+        xmin = 0 
+        xmax = 3.5215873015873016 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.5215873015873016 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.5215873015873016 
+                    text = "" 
+    item [14]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_14" 
+        xmin = 0 
+        xmax = 5.648208616780045 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.648208616780045 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.648208616780045 
+                    text = "" 
+    item [15]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_15" 
+        xmin = 0 
+        xmax = 3.4115873015873017 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.4115873015873017 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.4115873015873017 
+                    text = "" 
+    item [16]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_16" 
+        xmin = 0 
+        xmax = 4.951541950113379 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.951541950113379 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.951541950113379 
+                    text = "" 
+    item [17]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_17" 
+        xmin = 0 
+        xmax = 3.9248979591836735 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.9248979591836735 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.9248979591836735 
+                    text = "" 
+    item [18]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_18" 
+        xmin = 0 
+        xmax = 5.208208616780046 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.208208616780046 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.208208616780046 
+                    text = "" 
+    item [19]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_19" 
+        xmin = 0 
+        xmax = 3.52156462585034 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.52156462585034 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.52156462585034 
+                    text = "" 
+    item [20]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_20" 
+        xmin = 0 
+        xmax = 4.994195011337869 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.994195011337869 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.994195011337869 
+                    text = "" 
+    item [21]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_21" 
+        xmin = 0 
+        xmax = 3.5582312925170068 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.5582312925170068 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.5582312925170068 
+                    text = "" 
+    item [22]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_22" 
+        xmin = 0 
+        xmax = 4.493219954648526 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.493219954648526 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.493219954648526 
+                    text = "" 
+    item [23]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_23" 
+        xmin = 0 
+        xmax = 2.4476643990929707 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 2.4476643990929707 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 2.4476643990929707 
+                    text = "" 
+    item [24]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_24" 
+        xmin = 0 
+        xmax = 4.789773242630385 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.789773242630385 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.789773242630385 
+                    text = "" 
+    item [25]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_25" 
+        xmin = 0 
+        xmax = 3.8265986394557823 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.8265986394557823 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.8265986394557823 
+                    text = "" 
+    item [26]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_26" 
+        xmin = 0 
+        xmax = 4.896530612244898 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.896530612244898 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.896530612244898 
+                    text = "" 
+    item [27]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_27" 
+        xmin = 0 
+        xmax = 3.9125396825396828 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.9125396825396828 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.9125396825396828 
+                    text = "" 
+    item [28]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_28" 
+        xmin = 0 
+        xmax = 5.318185941043084 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.318185941043084 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.318185941043084 
+                    text = "" 
+    item [29]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_29" 
+        xmin = 0 
+        xmax = 3.888231292517007 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.888231292517007 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.888231292517007 
+                    text = "" 
+    item [30]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_30" 
+        xmin = 0 
+        xmax = 5.041451247165533 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.041451247165533 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.041451247165533 
+                    text = "" 
+    item [31]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_31" 
+        xmin = 0 
+        xmax = 3.4299092970521543 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.4299092970521543 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.4299092970521543 
+                    text = "" 
+    item [32]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_32" 
+        xmin = 0 
+        xmax = 5.116530612244898 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.116530612244898 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.116530612244898 
+                    text = "" 
+    item [33]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_33" 
+        xmin = 0 
+        xmax = 4.199886621315192 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.199886621315192 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.199886621315192 
+                    text = "" 
+    item [34]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_34" 
+        xmin = 0 
+        xmax = 5.208185941043084 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.208185941043084 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.208185941043084 
+                    text = "" 
+    item [35]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_35" 
+        xmin = 0 
+        xmax = 4.2365532879818595 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.2365532879818595 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.2365532879818595 
+                    text = "" 
+    item [36]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_36" 
+        xmin = 0 
+        xmax = 5.531678004535148 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.531678004535148 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.531678004535148 
+                    text = "" 
+    item [37]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_37" 
+        xmin = 0 
+        xmax = 3.7049206349206347 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.7049206349206347 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.7049206349206347 
+                    text = "" 
+    item [38]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_38" 
+        xmin = 0 
+        xmax = 5.043197278911564 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.043197278911564 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.043197278911564 
+                    text = "" 
+    item [39]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_39" 
+        xmin = 0 
+        xmax = 3.96156462585034 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.96156462585034 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.96156462585034 
+                    text = "" 
+    item [40]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_40" 
+        xmin = 0 
+        xmax = 5.897823129251701 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.897823129251701 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.897823129251701 
+                    text = "" 
+    item [41]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_41" 
+        xmin = 0 
+        xmax = 3.823310657596372 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.823310657596372 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.823310657596372 
+                    text = "" 
+    item [42]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_42" 
+        xmin = 0 
+        xmax = 5.40827664399093 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.40827664399093 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.40827664399093 
+                    text = "" 
+    item [43]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_43" 
+        xmin = 0 
+        xmax = 4.774535147392291 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.774535147392291 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.774535147392291 
+                    text = "" 
+    item [44]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_44" 
+        xmin = 0 
+        xmax = 3.776439909297052 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.776439909297052 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.776439909297052 
+                    text = "" 
+    item [45]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_45" 
+        xmin = 0 
+        xmax = 5.736349206349207 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.736349206349207 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.736349206349207 
+                    text = "" 
+    item [46]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_46" 
+        xmin = 0 
+        xmax = 4.937868480725624 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.937868480725624 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.937868480725624 
+                    text = "" 
+    item [47]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_47" 
+        xmin = 0 
+        xmax = 6.444081632653061 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.444081632653061 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.444081632653061 
+                    text = "" 
+    item [48]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_48" 
+        xmin = 0 
+        xmax = 3.5170975056689344 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.5170975056689344 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.5170975056689344 
+                    text = "" 
+    item [49]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_49" 
+        xmin = 0 
+        xmax = 4.382925170068027 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.382925170068027 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.382925170068027 
+                    text = "" 
+    item [50]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_50" 
+        xmin = 0 
+        xmax = 4.357165532879819 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.357165532879819 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.357165532879819 
+                    text = "" 
+    item [51]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_51" 
+        xmin = 0 
+        xmax = 5.445986394557823 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.445986394557823 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.445986394557823 
+                    text = "" 
+    item [52]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_52" 
+        xmin = 0 
+        xmax = 4.447891156462585 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.447891156462585 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.447891156462585 
+                    text = "" 
+    item [53]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_53" 
+        xmin = 0 
+        xmax = 4.887709750566893 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.887709750566893 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.887709750566893 
+                    text = "" 
+    item [54]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_54" 
+        xmin = 0 
+        xmax = 3.5042403628117915 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.5042403628117915 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.5042403628117915 
+                    text = "" 
+    item [55]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_55" 
+        xmin = 0 
+        xmax = 4.937845804988662 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.937845804988662 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.937845804988662 
+                    text = "" 
+    item [56]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_56" 
+        xmin = 0 
+        xmax = 4.012380952380952 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.012380952380952 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.012380952380952 
+                    text = "" 
+    item [57]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_57" 
+        xmin = 0 
+        xmax = 5.917800453514739 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.917800453514739 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.917800453514739 
+                    text = "" 
+    item [58]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_58" 
+        xmin = 0 
+        xmax = 3.195736961451247 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.195736961451247 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.195736961451247 
+                    text = "" 
+    item [59]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_59" 
+        xmin = 0 
+        xmax = 4.683809523809524 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.683809523809524 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.683809523809524 
+                    text = "" 
+    item [60]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_60" 
+        xmin = 0 
+        xmax = 3.706167800453515 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.706167800453515 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.706167800453515 
+                    text = "" 
+    item [61]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_61" 
+        xmin = 0 
+        xmax = 4.810839002267573 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.810839002267573 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.810839002267573 
+                    text = "" 
+    item [62]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_62" 
+        xmin = 0 
+        xmax = 3.9216326530612244 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.9216326530612244 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.9216326530612244 
+                    text = "" 
+    item [63]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_63" 
+        xmin = 0 
+        xmax = 6.157006802721089 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.157006802721089 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.157006802721089 
+                    text = "" 
+    item [64]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_64" 
+        xmin = 0 
+        xmax = 4.444013605442177 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.444013605442177 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.444013605442177 
+                    text = "" 
+    item [65]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_65" 
+        xmin = 0 
+        xmax = 5.573015873015873 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.573015873015873 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.573015873015873 
+                    text = "" 
+    item [66]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_66" 
+        xmin = 0 
+        xmax = 4.357165532879819 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.357165532879819 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.357165532879819 
+                    text = "" 
+    item [67]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_67" 
+        xmin = 0 
+        xmax = 5.518571428571429 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.518571428571429 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.518571428571429 
+                    text = "" 
+    item [68]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_68" 
+        xmin = 0 
+        xmax = 4.0849659863945575 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.0849659863945575 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.0849659863945575 
+                    text = "" 
+    item [69]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_69" 
+        xmin = 0 
+        xmax = 5.228208616780045 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.228208616780045 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.228208616780045 
+                    text = "" 
+    item [70]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_70" 
+        xmin = 0 
+        xmax = 4.308004535147393 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.308004535147393 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.308004535147393 
+                    text = "" 
+    item [71]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_71" 
+        xmin = 0 
+        xmax = 2.7901814058956917 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 2.7901814058956917 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 2.7901814058956917 
+                    text = "" 
+    item [72]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_72" 
+        xmin = 0 
+        xmax = 4.303696145124716 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.303696145124716 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.303696145124716 
+                    text = "" 
+    item [73]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_73" 
+        xmin = 0 
+        xmax = 4.538639455782313 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.538639455782313 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.538639455782313 
+                    text = "" 
+    item [74]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_74" 
+        xmin = 0 
+        xmax = 3.719410430839002 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.719410430839002 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.719410430839002 
+                    text = "" 
+    item [75]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_75" 
+        xmin = 0 
+        xmax = 5.326734693877551 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.326734693877551 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.326734693877551 
+                    text = "" 
+    item [76]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_76" 
+        xmin = 0 
+        xmax = 3.589546485260771 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.589546485260771 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.589546485260771 
+                    text = "" 
+    item [77]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_77" 
+        xmin = 0 
+        xmax = 3.6048299319727892 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.6048299319727892 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.6048299319727892 
+                    text = "" 
+    item [78]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_78" 
+        xmin = 0 
+        xmax = 4.097278911564626 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.097278911564626 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.097278911564626 
+                    text = "" 
+    item [79]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_79" 
+        xmin = 0 
+        xmax = 5.210068027210884 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.210068027210884 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.210068027210884 
+                    text = "" 
+    item [80]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_80" 
+        xmin = 0 
+        xmax = 4.030498866213152 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.030498866213152 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.030498866213152 
+                    text = "" 
+    item [81]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_81" 
+        xmin = 0 
+        xmax = 4.652834467120181 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.652834467120181 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.652834467120181 
+                    text = "" 
+    item [82]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_82" 
+        xmin = 0 
+        xmax = 3.6312698412698414 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.6312698412698414 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.6312698412698414 
+                    text = "" 
+    item [83]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_83" 
+        xmin = 0 
+        xmax = 4.62936507936508 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.62936507936508 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.62936507936508 
+                    text = "" 
+    item [84]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_84" 
+        xmin = 0 
+        xmax = 3.849047619047619 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.849047619047619 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.849047619047619 
+                    text = "" 
+    item [85]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_85" 
+        xmin = 0 
+        xmax = 6.117414965986394 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.117414965986394 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.117414965986394 
+                    text = "" 
+    item [86]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_86" 
+        xmin = 0 
+        xmax = 3.61312925170068 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.61312925170068 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.61312925170068 
+                    text = "" 
+    item [87]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_87" 
+        xmin = 0 
+        xmax = 4.90156462585034 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.90156462585034 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.90156462585034 
+                    text = "" 
+    item [88]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_88" 
+        xmin = 0 
+        xmax = 3.86718820861678 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.86718820861678 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.86718820861678 
+                    text = "" 
+    item [89]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_89" 
+        xmin = 0 
+        xmax = 4.4885034013605445 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.4885034013605445 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.4885034013605445 
+                    text = "" 
+    item [90]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_90" 
+        xmin = 0 
+        xmax = 4.339024943310657 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.339024943310657 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.339024943310657 
+                    text = "" 
+    item [91]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_91" 
+        xmin = 0 
+        xmax = 5.210068027210884 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.210068027210884 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.210068027210884 
+                    text = "" 
+    item [92]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_92" 
+        xmin = 0 
+        xmax = 3.5042403628117915 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.5042403628117915 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.5042403628117915 
+                    text = "" 
+    item [93]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_93" 
+        xmin = 0 
+        xmax = 5.318956916099773 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.318956916099773 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.318956916099773 
+                    text = "" 
+    item [94]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_94" 
+        xmin = 0 
+        xmax = 4.157528344671202 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.157528344671202 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.157528344671202 
+                    text = "" 
+    item [95]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_95" 
+        xmin = 0 
+        xmax = 5.609319727891156 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.609319727891156 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.609319727891156 
+                    text = "" 
+    item [96]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_96" 
+        xmin = 0 
+        xmax = 3.5042403628117915 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.5042403628117915 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.5042403628117915 
+                    text = "" 
+    item [97]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_97" 
+        xmin = 0 
+        xmax = 5.02859410430839 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.02859410430839 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.02859410430839 
+                    text = "" 
+    item [98]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_98" 
+        xmin = 0 
+        xmax = 4.103106575963719 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.103106575963719 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.103106575963719 
+                    text = "" 
+    item [99]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_99" 
+        xmin = 0 
+        xmax = 5.355238095238096 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.355238095238096 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.355238095238096 
+                    text = "" 
+    item [100]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_100" 
+        xmin = 0 
+        xmax = 3.9216326530612244 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.9216326530612244 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.9216326530612244 
+                    text = "" 
+    item [101]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_101" 
+        xmin = 0 
+        xmax = 5.246371882086168 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.246371882086168 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.246371882086168 
+                    text = "" 
+    item [102]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_102" 
+        xmin = 0 
+        xmax = 3.8490249433106576 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.8490249433106576 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.8490249433106576 
+                    text = "" 
+    item [103]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_103" 
+        xmin = 0 
+        xmax = 5.445986394557823 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.445986394557823 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.445986394557823 
+                    text = "" 
+    item [104]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_104" 
+        xmin = 0 
+        xmax = 3.866689342403628 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.866689342403628 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.866689342403628 
+                    text = "" 
+    item [105]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_105" 
+        xmin = 0 
+        xmax = 4.559160997732426 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.559160997732426 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.559160997732426 
+                    text = "" 
+    item [106]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_106" 
+        xmin = 0 
+        xmax = 3.5626303854875285 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.5626303854875285 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.5626303854875285 
+                    text = "" 
+    item [107]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_107" 
+        xmin = 0 
+        xmax = 5.300362811791383 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.300362811791383 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.300362811791383 
+                    text = "" 
+    item [108]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_108" 
+        xmin = 0 
+        xmax = 4.320997732426304 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.320997732426304 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.320997732426304 
+                    text = "" 
+    item [109]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_109" 
+        xmin = 0 
+        xmax = 5.136303854875283 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.136303854875283 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.136303854875283 
+                    text = "" 
+    item [110]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_110" 
+        xmin = 0 
+        xmax = 2.7695011337868483 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 2.7695011337868483 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 2.7695011337868483 
+                    text = "" 
+    item [111]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_111" 
+        xmin = 0 
+        xmax = 5.14891156462585 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.14891156462585 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.14891156462585 
+                    text = "" 
+    item [112]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_112" 
+        xmin = 0 
+        xmax = 3.9988662131519273 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.9988662131519273 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.9988662131519273 
+                    text = "" 
+    item [113]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_113" 
+        xmin = 0 
+        xmax = 4.675804988662131 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.675804988662131 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.675804988662131 
+                    text = "" 
+    item [114]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_114" 
+        xmin = 0 
+        xmax = 3.8288208616780044 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.8288208616780044 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.8288208616780044 
+                    text = "" 
+    item [115]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_115" 
+        xmin = 0 
+        xmax = 5.183990929705216 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.183990929705216 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.183990929705216 
+                    text = "" 
+    item [116]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_116" 
+        xmin = 0 
+        xmax = 4.3323582766439905 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.3323582766439905 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.3323582766439905 
+                    text = "" 
+    item [117]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_117" 
+        xmin = 0 
+        xmax = 4.22655328798186 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.22655328798186 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.22655328798186 
+                    text = "" 
+    item [118]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_118" 
+        xmin = 0 
+        xmax = 3.2436507936507937 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.2436507936507937 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.2436507936507937 
+                    text = "" 
+    item [119]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_119" 
+        xmin = 0 
+        xmax = 4.4078004535147395 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.4078004535147395 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.4078004535147395 
+                    text = "" 
+    item [120]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_120" 
+        xmin = 0 
+        xmax = 3.0896598639455783 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.0896598639455783 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.0896598639455783 
+                    text = "" 
+    item [121]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_121" 
+        xmin = 0 
+        xmax = 4.845215419501134 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.845215419501134 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.845215419501134 
+                    text = "" 
+    item [122]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_122" 
+        xmin = 0 
+        xmax = 3.510589569160998 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.510589569160998 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.510589569160998 
+                    text = "" 
+    item [123]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_123" 
+        xmin = 0 
+        xmax = 4.578299319727891 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.578299319727891 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.578299319727891 
+                    text = "" 
+    item [124]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_124" 
+        xmin = 0 
+        xmax = 3.7980498866213153 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.7980498866213153 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.7980498866213153 
+                    text = "" 
+    item [125]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_125" 
+        xmin = 0 
+        xmax = 4.6604081632653065 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.6604081632653065 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.6604081632653065 
+                    text = "" 
+    item [126]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_126" 
+        xmin = 0 
+        xmax = 4.064965986394558 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.064965986394558 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.064965986394558 
+                    text = "" 
+    item [127]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_127" 
+        xmin = 0 
+        xmax = 5.050340136054421 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.050340136054421 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.050340136054421 
+                    text = "" 
+    item [128]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_128" 
+        xmin = 0 
+        xmax = 4.106031746031746 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.106031746031746 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.106031746031746 
+                    text = "" 
+    item [129]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_129" 
+        xmin = 0 
+        xmax = 5.769183673469388 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.769183673469388 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.769183673469388 
+                    text = "" 
+    item [130]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_130" 
+        xmin = 0 
+        xmax = 3.5105668934240364 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.5105668934240364 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.5105668934240364 
+                    text = "" 
+    item [131]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_131" 
+        xmin = 0 
+        xmax = 8.662267573696145 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 8.662267573696145 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 8.662267573696145 
+                    text = "" 
+    item [132]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_132" 
+        xmin = 0 
+        xmax = 4.044444444444444 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.044444444444444 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.044444444444444 
+                    text = "" 
+    item [133]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_133" 
+        xmin = 0 
+        xmax = 6.713696145124716 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.713696145124716 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.713696145124716 
+                    text = "" 
+    item [134]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_134" 
+        xmin = 0 
+        xmax = 4.639886621315193 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.639886621315193 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.639886621315193 
+                    text = "" 
+    item [135]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_135" 
+        xmin = 0 
+        xmax = 7.924965986394557 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 7.924965986394557 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 7.924965986394557 
+                    text = "" 
+    item [136]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_136" 
+        xmin = 0 
+        xmax = 4.106031746031746 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.106031746031746 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.106031746031746 
+                    text = "" 
+    item [137]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_137" 
+        xmin = 0 
+        xmax = 8.705374149659864 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 8.705374149659864 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 8.705374149659864 
+                    text = "" 
+    item [138]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_138" 
+        xmin = 0 
+        xmax = 4.488140589569161 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.488140589569161 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.488140589569161 
+                    text = "" 
+    item [139]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_139" 
+        xmin = 0 
+        xmax = 7.694761904761905 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 7.694761904761905 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 7.694761904761905 
+                    text = "" 
+    item [140]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_140" 
+        xmin = 0 
+        xmax = 3.982834467120181 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.982834467120181 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.982834467120181 
+                    text = "" 
+    item [141]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_141" 
+        xmin = 0 
+        xmax = 6.508367346938775 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.508367346938775 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.508367346938775 
+                    text = "" 
+    item [142]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_142" 
+        xmin = 0 
+        xmax = 4.085510204081633 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.085510204081633 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.085510204081633 
+                    text = "" 
+    item [143]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_143" 
+        xmin = 0 
+        xmax = 6.097709750566893 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.097709750566893 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.097709750566893 
+                    text = "" 
+    item [144]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_144" 
+        xmin = 0 
+        xmax = 4.414036281179138 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.414036281179138 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.414036281179138 
+                    text = "" 
+    item [145]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_145" 
+        xmin = 0 
+        xmax = 6.52891156462585 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.52891156462585 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.52891156462585 
+                    text = "" 
+    item [146]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_146" 
+        xmin = 0 
+        xmax = 4.044444444444444 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.044444444444444 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.044444444444444 
+                    text = "" 
+    item [147]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_147" 
+        xmin = 0 
+        xmax = 6.8368934240362815 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.8368934240362815 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.8368934240362815 
+                    text = "" 
+    item [148]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_148" 
+        xmin = 0 
+        xmax = 3.9212244897959185 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.9212244897959185 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.9212244897959185 
+                    text = "" 
+    item [149]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_149" 
+        xmin = 0 
+        xmax = 7.169818594104308 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 7.169818594104308 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 7.169818594104308 
+                    text = "" 
+    item [150]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_150" 
+        xmin = 0 
+        xmax = 3.859637188208617 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.859637188208617 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.859637188208617 
+                    text = "" 
+    item [151]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_151" 
+        xmin = 0 
+        xmax = 3.3052380952380953 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.3052380952380953 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.3052380952380953 
+                    text = "" 
+    item [152]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_152" 
+        xmin = 0 
+        xmax = 3.7775056689342406 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.7775056689342406 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.7775056689342406 
+                    text = "" 
+    item [153]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_153" 
+        xmin = 0 
+        xmax = 3.223106575963719 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.223106575963719 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.223106575963719 
+                    text = "" 
+    item [154]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_154" 
+        xmin = 0 
+        xmax = 4.003356009070295 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.003356009070295 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.003356009070295 
+                    text = "" 
+    item [155]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_155" 
+        xmin = 0 
+        xmax = 9.875759637188208 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 9.875759637188208 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 9.875759637188208 
+                    text = "" 
+    item [156]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_156" 
+        xmin = 0 
+        xmax = 3.5721768707482995 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.5721768707482995 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.5721768707482995 
+                    text = "" 
+    item [157]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_157" 
+        xmin = 0 
+        xmax = 9.054444444444444 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 9.054444444444444 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 9.054444444444444 
+                    text = "" 
+    item [158]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_158" 
+        xmin = 0 
+        xmax = 4.311360544217687 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.311360544217687 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.311360544217687 
+                    text = "" 
+    item [159]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_159" 
+        xmin = 0 
+        xmax = 6.364648526077097 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.364648526077097 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.364648526077097 
+                    text = "" 
+    item [160]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_160" 
+        xmin = 0 
+        xmax = 3.9417687074829932 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.9417687074829932 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.9417687074829932 
+                    text = "" 
+    item [161]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_161" 
+        xmin = 0 
+        xmax = 10.284036281179139 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 10.284036281179139 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 10.284036281179139 
+                    text = "" 
+    item [162]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_162" 
+        xmin = 0 
+        xmax = 4.290839002267574 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.290839002267574 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.290839002267574 
+                    text = "" 
+    item [163]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_163" 
+        xmin = 0 
+        xmax = 5.805351473922903 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.805351473922903 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.805351473922903 
+                    text = "" 
+    item [164]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_164" 
+        xmin = 0 
+        xmax = 4.906802721088435 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.906802721088435 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.906802721088435 
+                    text = "" 
+    item [165]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_165" 
+        xmin = 0 
+        xmax = 5.6459863945578235 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.6459863945578235 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.6459863945578235 
+                    text = "" 
+    item [166]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_166" 
+        xmin = 0 
+        xmax = 4.208684807256236 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.208684807256236 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.208684807256236 
+                    text = "" 
+    item [167]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_167" 
+        xmin = 0 
+        xmax = 6.159319727891156 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.159319727891156 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.159319727891156 
+                    text = "" 
+    item [168]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_168" 
+        xmin = 0 
+        xmax = 4.701496598639456 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.701496598639456 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.701496598639456 
+                    text = "" 
+    item [169]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_169" 
+        xmin = 0 
+        xmax = 8.746462585034013 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 8.746462585034013 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 8.746462585034013 
+                    text = "" 
+    item [170]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_170" 
+        xmin = 0 
+        xmax = 3.859637188208617 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.859637188208617 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.859637188208617 
+                    text = "" 
+    item [171]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_171" 
+        xmin = 0 
+        xmax = 6.487823129251701 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 6.487823129251701 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 6.487823129251701 
+                    text = "" 
+    item [172]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_172" 
+        xmin = 0 
+        xmax = 4.598820861678004 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.598820861678004 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.598820861678004 
+                    text = "" 
+    item [173]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_173" 
+        xmin = 0 
+        xmax = 5.9242176870748295 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.9242176870748295 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.9242176870748295 
+                    text = "" 
+    item [174]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_174" 
+        xmin = 0 
+        xmax = 5.52281179138322 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.52281179138322 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.52281179138322 
+                    text = "" 
+    item [175]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_175" 
+        xmin = 0 
+        xmax = 7.514580498866213 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 7.514580498866213 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 7.514580498866213 
+                    text = "" 
+    item [176]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_176" 
+        xmin = 0 
+        xmax = 3.4900453514739227 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.4900453514739227 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.4900453514739227 
+                    text = "" 
+    item [177]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_177" 
+        xmin = 0 
+        xmax = 5.707596371882087 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.707596371882087 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.707596371882087 
+                    text = "" 
+    item [178]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_178" 
+        xmin = 0 
+        xmax = 3.839115646258503 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.839115646258503 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.839115646258503 
+                    text = "" 
+    item [179]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_179" 
+        xmin = 0 
+        xmax = 5.194285714285714 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.194285714285714 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.194285714285714 
+                    text = "" 
+    item [180]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_180" 
+        xmin = 0 
+        xmax = 3.5721768707482995 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 3.5721768707482995 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 3.5721768707482995 
+                    text = "" 
+    item [181]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_181" 
+        xmin = 0 
+        xmax = 5.194263038548753 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.194263038548753 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.194263038548753 
+                    text = "" 
+    item [182]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_182" 
+        xmin = 0 
+        xmax = 4.188163265306122 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.188163265306122 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.188163265306122 
+                    text = "" 
+    item [183]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_183" 
+        xmin = 0 
+        xmax = 7.900884353741497 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 7.900884353741497 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 7.900884353741497 
+                    text = "" 
+    item [184]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_184" 
+        xmin = 0 
+        xmax = 4.5166893424036285 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.5166893424036285 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.5166893424036285 
+                    text = "" 
+    item [185]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_185" 
+        xmin = 0 
+        xmax = 5.810249433106576 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.810249433106576 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.810249433106576 
+                    text = "" 
+    item [186]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_186" 
+        xmin = 0 
+        xmax = 4.208707482993197 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.208707482993197 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.208707482993197 
+                    text = "" 
+    item [187]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_187" 
+        xmin = 0 
+        xmax = 5.112154195011338 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 5.112154195011338 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 5.112154195011338 
+                    text = "" 
+    item [188]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_188" 
+        xmin = 0 
+        xmax = 4.3729705215419505 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.3729705215419505 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.3729705215419505 
+                    text = "" 
+    item [189]:
+        class = "TextGrid" 
+        name = "2020-01-03_RGb_189" 
+        xmin = 0 
+        xmax = 4.210453514739229 
+        tiers? <exists> 
+        size = 1 
+        item []: 
+            item [1]:
+                class = "IntervalTier" 
+                name = "tier" 
+                xmin = 0 
+                xmax = 4.210453514739229 
+                intervals: size = 1 
+                intervals [1]:
+                    xmin = 0 
+                    xmax = 4.210453514739229 
+                    text = "" 

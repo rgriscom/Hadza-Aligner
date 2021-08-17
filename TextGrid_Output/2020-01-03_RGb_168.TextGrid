@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.68
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.68
+		intervals: size = 26
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.02
+				text = "sil"
+			intervals [2]:
+				xmin = 0.02
+				xmax = 0.18
+				text = "g"
+			intervals [3]:
+				xmin = 0.18
+				xmax = 0.32
+				text = "o"
+			intervals [4]:
+				xmin = 0.32
+				xmax = 0.39
+				text = "r"
+			intervals [5]:
+				xmin = 0.39
+				xmax = 0.55
+				text = "e"
+			intervals [6]:
+				xmin = 0.55
+				xmax = 0.75
+				text = "ph"
+			intervals [7]:
+				xmin = 0.75
+				xmax = 0.91
+				text = "a"
+			intervals [8]:
+				xmin = 0.91
+				xmax = 0.94
+				text = "m"
+			intervals [9]:
+				xmin = 0.94
+				xmax = 1.21
+				text = "o"
+			intervals [10]:
+				xmin = 1.21
+				xmax = 1.92
+				text = "g"
+			intervals [11]:
+				xmin = 1.92
+				xmax = 2.04
+				text = "o"
+			intervals [12]:
+				xmin = 2.04
+				xmax = 2.11
+				text = "r"
+			intervals [13]:
+				xmin = 2.11
+				xmax = 2.27
+				text = "e"
+			intervals [14]:
+				xmin = 2.27
+				xmax = 2.44
+				text = "ph"
+			intervals [15]:
+				xmin = 2.44
+				xmax = 2.61
+				text = "a"
+			intervals [16]:
+				xmin = 2.61
+				xmax = 2.72
+				text = "m"
+			intervals [17]:
+				xmin = 2.72
+				xmax = 2.75
+				text = "o"
+			intervals [18]:
+				xmin = 2.75
+				xmax = 3.51
+				text = "g"
+			intervals [19]:
+				xmin = 3.51
+				xmax = 3.61
+				text = "o"
+			intervals [20]:
+				xmin = 3.61
+				xmax = 3.7
+				text = "r"
+			intervals [21]:
+				xmin = 3.7
+				xmax = 3.84
+				text = "e"
+			intervals [22]:
+				xmin = 3.84
+				xmax = 4.02
+				text = "ph"
+			intervals [23]:
+				xmin = 4.02
+				xmax = 4.2
+				text = "a"
+			intervals [24]:
+				xmin = 4.2
+				xmax = 4.26
+				text = "m"
+			intervals [25]:
+				xmin = 4.26
+				xmax = 4.52
+				text = "o"
+			intervals [26]:
+				xmin = 4.52
+				xmax = 4.68
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.68
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.02
+				text = "sil"
+			intervals [2]:
+				xmin = 0.02
+				xmax = 1.21
+				text = "gorephamo"
+			intervals [3]:
+				xmin = 1.21
+				xmax = 2.75
+				text = "gorephamo"
+			intervals [4]:
+				xmin = 2.75
+				xmax = 4.52
+				text = "gorephamo"
+			intervals [5]:
+				xmin = 4.52
+				xmax = 4.68
+				text = "sil"

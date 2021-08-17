@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.45
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.45
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.0
+				xmax = 2.48
+				text = "sil"
+			intervals [2]:
+				xmin = 2.48
+				xmax = 2.51
+				text = "n"
+			intervals [3]:
+				xmin = 2.51
+				xmax = 2.54
+				text = "a"
+			intervals [4]:
+				xmin = 2.54
+				xmax = 2.57
+				text = "t"
+			intervals [5]:
+				xmin = 2.57
+				xmax = 2.62
+				text = "i"
+			intervals [6]:
+				xmin = 2.62
+				xmax = 2.66
+				text = "n"
+			intervals [7]:
+				xmin = 2.66
+				xmax = 2.76
+				text = "a"
+			intervals [8]:
+				xmin = 2.76
+				xmax = 2.93
+				text = "t"
+			intervals [9]:
+				xmin = 2.93
+				xmax = 2.97
+				text = "i"
+			intervals [10]:
+				xmin = 2.97
+				xmax = 3.0
+				text = "n"
+			intervals [11]:
+				xmin = 3.0
+				xmax = 3.03
+				text = "a"
+			intervals [12]:
+				xmin = 3.03
+				xmax = 3.09
+				text = "t"
+			intervals [13]:
+				xmin = 3.09
+				xmax = 3.12
+				text = "i"
+			intervals [14]:
+				xmin = 3.12
+				xmax = 3.13
+				text = ""
+			intervals [15]:
+				xmin = 3.13
+				xmax = 3.45
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.45
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 2.48
+				text = "sil"
+			intervals [2]:
+				xmin = 2.48
+				xmax = 2.62
+				text = "nati"
+			intervals [3]:
+				xmin = 2.62
+				xmax = 2.97
+				text = "nati"
+			intervals [4]:
+				xmin = 2.97
+				xmax = 3.12
+				text = "nati"
+			intervals [5]:
+				xmin = 3.12
+				xmax = 3.13
+				text = "sp"
+			intervals [6]:
+				xmin = 3.13
+				xmax = 3.45
+				text = "sil"

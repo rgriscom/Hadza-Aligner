@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.39
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.39
+		intervals: size = 25
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.14
+				text = "sil"
+			intervals [2]:
+				xmin = 0.14
+				xmax = 0.17
+				text = "g"
+			intervals [3]:
+				xmin = 0.17
+				xmax = 0.24
+				text = "o"
+			intervals [4]:
+				xmin = 0.24
+				xmax = 0.35
+				text = "p"
+			intervals [5]:
+				xmin = 0.35
+				xmax = 0.51
+				text = "a"
+			intervals [6]:
+				xmin = 0.51
+				xmax = 0.64
+				text = "nd"
+			intervals [7]:
+				xmin = 0.64
+				xmax = 0.78
+				text = "e"
+			intervals [8]:
+				xmin = 0.78
+				xmax = 0.95
+				text = "e"
+			intervals [9]:
+				xmin = 0.95
+				xmax = 0.99
+				text = ""
+			intervals [10]:
+				xmin = 0.99
+				xmax = 1.6
+				text = "g"
+			intervals [11]:
+				xmin = 1.6
+				xmax = 1.7
+				text = "o"
+			intervals [12]:
+				xmin = 1.7
+				xmax = 1.77
+				text = "p"
+			intervals [13]:
+				xmin = 1.77
+				xmax = 1.93
+				text = "a"
+			intervals [14]:
+				xmin = 1.93
+				xmax = 2.07
+				text = "nd"
+			intervals [15]:
+				xmin = 2.07
+				xmax = 2.21
+				text = "e"
+			intervals [16]:
+				xmin = 2.21
+				xmax = 2.35
+				text = "e"
+			intervals [17]:
+				xmin = 2.35
+				xmax = 2.39
+				text = ""
+			intervals [18]:
+				xmin = 2.39
+				xmax = 2.63
+				text = "g"
+			intervals [19]:
+				xmin = 2.63
+				xmax = 2.72
+				text = "o"
+			intervals [20]:
+				xmin = 2.72
+				xmax = 2.83
+				text = "p"
+			intervals [21]:
+				xmin = 2.83
+				xmax = 2.98
+				text = "a"
+			intervals [22]:
+				xmin = 2.98
+				xmax = 3.11
+				text = "nd"
+			intervals [23]:
+				xmin = 3.11
+				xmax = 3.27
+				text = "e"
+			intervals [24]:
+				xmin = 3.27
+				xmax = 3.37
+				text = "e"
+			intervals [25]:
+				xmin = 3.37
+				xmax = 3.39
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.39
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.14
+				text = "sil"
+			intervals [2]:
+				xmin = 0.14
+				xmax = 0.95
+				text = "gopandee"
+			intervals [3]:
+				xmin = 0.95
+				xmax = 0.99
+				text = "sp"
+			intervals [4]:
+				xmin = 0.99
+				xmax = 2.35
+				text = "gopandee"
+			intervals [5]:
+				xmin = 2.35
+				xmax = 2.39
+				text = "sp"
+			intervals [6]:
+				xmin = 2.39
+				xmax = 3.37
+				text = "gopandee"
+			intervals [7]:
+				xmin = 3.37
+				xmax = 3.39
+				text = "sil"

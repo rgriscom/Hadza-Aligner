@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.49
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.49
+		intervals: size = 21
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.19
+				text = "sil"
+			intervals [2]:
+				xmin = 0.19
+				xmax = 0.22
+				text = "m"
+			intervals [3]:
+				xmin = 0.22
+				xmax = 0.29
+				text = "o"
+			intervals [4]:
+				xmin = 0.29
+				xmax = 0.56
+				text = "ny"
+			intervals [5]:
+				xmin = 0.56
+				xmax = 0.62
+				text = "o"
+			intervals [6]:
+				xmin = 0.62
+				xmax = 0.79
+				text = "d"
+			intervals [7]:
+				xmin = 0.79
+				xmax = 0.89
+				text = "a"
+			intervals [8]:
+				xmin = 0.89
+				xmax = 0.92
+				text = ""
+			intervals [9]:
+				xmin = 0.92
+				xmax = 0.95
+				text = "m"
+			intervals [10]:
+				xmin = 0.95
+				xmax = 1.25
+				text = "o"
+			intervals [11]:
+				xmin = 1.25
+				xmax = 1.73
+				text = "ny"
+			intervals [12]:
+				xmin = 1.73
+				xmax = 1.78
+				text = "o"
+			intervals [13]:
+				xmin = 1.78
+				xmax = 1.95
+				text = "d"
+			intervals [14]:
+				xmin = 1.95
+				xmax = 2.08
+				text = "a"
+			intervals [15]:
+				xmin = 2.08
+				xmax = 2.11
+				text = "m"
+			intervals [16]:
+				xmin = 2.11
+				xmax = 2.66
+				text = "o"
+			intervals [17]:
+				xmin = 2.66
+				xmax = 2.97
+				text = "ny"
+			intervals [18]:
+				xmin = 2.97
+				xmax = 3.03
+				text = "o"
+			intervals [19]:
+				xmin = 3.03
+				xmax = 3.21
+				text = "d"
+			intervals [20]:
+				xmin = 3.21
+				xmax = 3.26
+				text = "a"
+			intervals [21]:
+				xmin = 3.26
+				xmax = 3.49
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.49
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.19
+				text = "sil"
+			intervals [2]:
+				xmin = 0.19
+				xmax = 0.89
+				text = "monyoda"
+			intervals [3]:
+				xmin = 0.89
+				xmax = 0.92
+				text = "sp"
+			intervals [4]:
+				xmin = 0.92
+				xmax = 2.08
+				text = "monyoda"
+			intervals [5]:
+				xmin = 2.08
+				xmax = 3.26
+				text = "monyoda"
+			intervals [6]:
+				xmin = 3.26
+				xmax = 3.49
+				text = "sil"

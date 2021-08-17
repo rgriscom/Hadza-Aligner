@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.19
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.19
+		intervals: size = 25
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.02
+				text = "sil"
+			intervals [2]:
+				xmin = 0.02
+				xmax = 0.23
+				text = "h"
+			intervals [3]:
+				xmin = 0.23
+				xmax = 0.32
+				text = "a"
+			intervals [4]:
+				xmin = 0.32
+				xmax = 0.4
+				text = "b"
+			intervals [5]:
+				xmin = 0.4
+				xmax = 0.54
+				text = "a"
+			intervals [6]:
+				xmin = 0.54
+				xmax = 0.66
+				text = "m"
+			intervals [7]:
+				xmin = 0.66
+				xmax = 0.85
+				text = "i"
+			intervals [8]:
+				xmin = 0.85
+				xmax = 0.88
+				text = "a"
+			intervals [9]:
+				xmin = 0.88
+				xmax = 0.97
+				text = ""
+			intervals [10]:
+				xmin = 0.97
+				xmax = 2.1
+				text = "h"
+			intervals [11]:
+				xmin = 2.1
+				xmax = 2.19
+				text = "a"
+			intervals [12]:
+				xmin = 2.19
+				xmax = 2.28
+				text = "b"
+			intervals [13]:
+				xmin = 2.28
+				xmax = 2.39
+				text = "a"
+			intervals [14]:
+				xmin = 2.39
+				xmax = 2.65
+				text = "m"
+			intervals [15]:
+				xmin = 2.65
+				xmax = 2.68
+				text = "i"
+			intervals [16]:
+				xmin = 2.68
+				xmax = 2.71
+				text = "a"
+			intervals [17]:
+				xmin = 2.71
+				xmax = 2.99
+				text = ""
+			intervals [18]:
+				xmin = 2.99
+				xmax = 3.42
+				text = "h"
+			intervals [19]:
+				xmin = 3.42
+				xmax = 3.51
+				text = "a"
+			intervals [20]:
+				xmin = 3.51
+				xmax = 3.6
+				text = "b"
+			intervals [21]:
+				xmin = 3.6
+				xmax = 3.72
+				text = "a"
+			intervals [22]:
+				xmin = 3.72
+				xmax = 3.96
+				text = "m"
+			intervals [23]:
+				xmin = 3.96
+				xmax = 4.04
+				text = "i"
+			intervals [24]:
+				xmin = 4.04
+				xmax = 4.08
+				text = "a"
+			intervals [25]:
+				xmin = 4.08
+				xmax = 4.19
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.19
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.02
+				text = "sil"
+			intervals [2]:
+				xmin = 0.02
+				xmax = 0.88
+				text = "habamia"
+			intervals [3]:
+				xmin = 0.88
+				xmax = 0.97
+				text = "sp"
+			intervals [4]:
+				xmin = 0.97
+				xmax = 2.71
+				text = "habamia"
+			intervals [5]:
+				xmin = 2.71
+				xmax = 2.99
+				text = "sp"
+			intervals [6]:
+				xmin = 2.99
+				xmax = 4.08
+				text = "habamia"
+			intervals [7]:
+				xmin = 4.08
+				xmax = 4.19
+				text = "sil"

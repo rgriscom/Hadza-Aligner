@@ -1,0 +1,136 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.7
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.7
+		intervals: size = 22
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.26
+				text = "sil"
+			intervals [2]:
+				xmin = 0.26
+				xmax = 0.4
+				text = "u"
+			intervals [3]:
+				xmin = 0.4
+				xmax = 0.62
+				text = "kw"
+			intervals [4]:
+				xmin = 0.62
+				xmax = 0.65
+				text = "a"
+			intervals [5]:
+				xmin = 0.65
+				xmax = 0.68
+				text = "a"
+			intervals [6]:
+				xmin = 0.68
+				xmax = 0.82
+				text = "k"
+			intervals [7]:
+				xmin = 0.82
+				xmax = 1.27
+				text = "o"
+			intervals [8]:
+				xmin = 1.27
+				xmax = 1.77
+				text = "u"
+			intervals [9]:
+				xmin = 1.77
+				xmax = 1.95
+				text = "kw"
+			intervals [10]:
+				xmin = 1.95
+				xmax = 1.98
+				text = "a"
+			intervals [11]:
+				xmin = 1.98
+				xmax = 2.01
+				text = "a"
+			intervals [12]:
+				xmin = 2.01
+				xmax = 2.15
+				text = "k"
+			intervals [13]:
+				xmin = 2.15
+				xmax = 2.26
+				text = "o"
+			intervals [14]:
+				xmin = 2.26
+				xmax = 2.32
+				text = ""
+			intervals [15]:
+				xmin = 2.32
+				xmax = 2.96
+				text = "u"
+			intervals [16]:
+				xmin = 2.96
+				xmax = 3.14
+				text = "kw"
+			intervals [17]:
+				xmin = 3.14
+				xmax = 3.17
+				text = "a"
+			intervals [18]:
+				xmin = 3.17
+				xmax = 3.2
+				text = "a"
+			intervals [19]:
+				xmin = 3.2
+				xmax = 3.35
+				text = "k"
+			intervals [20]:
+				xmin = 3.35
+				xmax = 3.45
+				text = "o"
+			intervals [21]:
+				xmin = 3.45
+				xmax = 3.53
+				text = ""
+			intervals [22]:
+				xmin = 3.53
+				xmax = 3.7
+				text = "sil"
+	item [2]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.7
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.26
+				text = "sil"
+			intervals [2]:
+				xmin = 0.26
+				xmax = 1.27
+				text = "ukwaako"
+			intervals [3]:
+				xmin = 1.27
+				xmax = 2.26
+				text = "ukwaako"
+			intervals [4]:
+				xmin = 2.26
+				xmax = 2.32
+				text = "sp"
+			intervals [5]:
+				xmin = 2.32
+				xmax = 3.45
+				text = "ukwaako"
+			intervals [6]:
+				xmin = 3.45
+				xmax = 3.53
+				text = "sp"
+			intervals [7]:
+				xmin = 3.53
+				xmax = 3.7
+				text = "sil"
